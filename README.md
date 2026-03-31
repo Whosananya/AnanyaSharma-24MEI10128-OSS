@@ -2,8 +2,8 @@
 # The Open Source Audit — Git
 ### Open Source Software (OSS) Capstone Project
 **Course:** Open Source Software | VITyarthi
-**Student Name:** Daksh Maru
-**Roll Number:** 24BCE11514
+**Student Name:** Ananya Sharma
+**Roll Number:** 24MEI10128
 **Chosen Software:** Git (Licensed under GPL v2)
 
 ---
